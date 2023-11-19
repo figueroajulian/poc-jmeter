@@ -2,7 +2,7 @@
   <img src='./.assets/jf-automation-testing.jpg' width='200' align="center">
 </p>
 
-An Open Source Java application designed to measure performance and load test applications.
+Apache JMeter, an Open Source Java application designed to measure performance and load test applications.
 
 ## What Is It?
 
