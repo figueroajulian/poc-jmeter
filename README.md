@@ -51,6 +51,4 @@ The following requirements exist for running Apache JMeter:
 
 ## Documentation
 
-The documentation available as of the date of this release is
-also included, in HTML format, in the [printable_docs](printable_docs) directory,
-and it may be browsed starting from the file called [index.html](printable_docs/index.html).
+[DOCUMENTATION](https://jmeter.apache.org/usermanual/index.html)
